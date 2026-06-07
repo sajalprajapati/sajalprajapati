@@ -1,111 +1,123 @@
-<h1 align="center">Hi , I'm Sajal Prajapati <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">"Passionate software engineer excelling in MERN full-stack development . Committed to mastering AI/ML, and dedicated to becoming a proficient Data Structures and Algorithms (DSA) practitioner. A lifelong learner driven by innovation and problem-solving."</h3>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Aspiring+Full+Stack+Developer+And+CPP+Developer;Always%20Eager%20to%20learn%20new%20things&center=true&width=600&height=80"></a>
-</p>
-<hr/>
-
-<b>## 💫 About Me: </b>
-
-
-✨ Passionate about learning new technologies<br>
-<br>
-🌱 Right Now! I'm practitioner of **MERN Stack  and DSA ** <br>
-<br>
-💬 Feel free to inquire about : <br>
-    **    React, GSAP, Next.JS, MongoDB, Express.JS, Node.JS, DSA    **
-<br>
-<br>
-⚡  Interesting Fact "Did you know? I write code that is so clean, it makes my coffee jealous – it can't even espresso how neat it is! ☕️😄"
-<br>
-<br>
-
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="70px" height="50px"> 💻 Tech Stack & Tools
-
-
-![C++](https://img.shields.io/badge/C++-5C2D91?style=for-the-badge&logo=c++&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-
-
-
-<!-- ### <img src="https://media.giphy.com/media/swhRkVYLJDrCE/giphy.gif" width = "40> Language Stats
- <div align="center">
-  <a>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AJTITAN)](https://github.com/AJTITAN/github-readme-stats)</a>
-</div> -->
-### <img src="https://media4.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif?cid=790b7611e82baed6147e3d312c0cc603a3b114d27fae9bc0&rid=giphy.gif&ct=s" width="40"> Streak stats
-<div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-yogesh&layout=compact&show_icon=true&theme=algolia" alt="i-yogesh-langs"/>
-<!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=TangoBeee&layout=compact&show_icon=true&theme=algolia" alt="TangoBee-stats"/> -->
-</div>
-
-
-
-
-### <img src="https://media2.giphy.com/media/CCXzSZGI8TsIvYZjWo/200w.webp" width="40"> Trophies stats
 <div align="center">
 
-  <a>![Github trophy][github-trophy]</a>
+<br/>
+
+# Sajal Prajapati
+
+**Software Engineer · Full-Stack · C# · .NET · MERN**
+
+*Building reliable systems at the intersection of hardware and web.*
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/prajapatisajal00@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:prajapatisajal00@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sajal-prajapati-065179244)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rockysingh2003)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/sajal_123)
+[![GFG](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/sajal_prajapati2003)
 
 </div>
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" />  Coding Profiles  
+---
+
+<br/>
+
+## About
+
+I'm a software engineer with a B.Tech in Computer Science, currently working at **AVL India** building C#/.NET applications for automotive diagnostic hardware — streaming real-time sensor data over serial and REST, and visualising live telemetry via WPF dashboards.
+
+On the web side, I work across the full MERN stack with a strong focus on performance, state management, and clean UI. I also practice DSA consistently and enjoy solving algorithmic problems.
+
+> *Committed to writing code that is purposeful, performant, and built to last.*
+
+<br/>
+
+---
+
+<br/>
+
+## Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+<br/>
+
+---
+
+<br/>
+
+## GitHub Stats
+
 <div align="center">
-    
-  <a href="">[![GFG-Stats][gfg-stats-url]][gfg-url]</a>
-  
-  <a href="">[![Leetcode-Stats][leetcode-stats-url]][leetcode-url]</a>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rockysingh2003&show_icons=true&theme=default&hide_border=true&title_color=1d1d1f&text_color=515154&icon_color=0071e3&bg_color=f5f5f7&count_private=true&include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rockysingh2003&layout=compact&theme=default&hide_border=true&title_color=1d1d1f&text_color=515154&bg_color=f5f5f7" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=rockysingh2003&theme=default&hide_border=true&background=f5f5f7&ring=0071e3&fire=0071e3&currStreakLabel=1d1d1f&sideLabels=515154&dates=86868b&stroke=e8e8ed" />
 
 </div>
 
+<br/>
 
-## 🙋‍♂️ Let's Connect
-[![Gmail][gmail-shield]][gmail-url]
-[![Github][github-shield]][github-url]
-[![LeetCode][leetcode-shield]][leetcode-url]
-[![GFG][gfg-shield]][gfg-url]
-<br>
+---
+
+<br/>
+
+## Competitive Programming
 
 <div align="center">
 
-  <a href="https://github.com/rockysingh2003">![Footer quote][quote-url]</a>
+<img src="https://leetcard.jacoblin.cool/sajal_123?theme=light&font=DM+Sans&ext=heatmap&border=0&radius=10" />
+
+<br/><br/>
+
+<img src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sajal_prajapati2003" />
 
 </div>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/rockysingh2003/count.svg" />
-</p>
 
+<br/>
 
-<!-- MARKDOWN LINKS & IMAGES -->
-[visitors-badge]: https://visitor-badge.glitch.me/badge?page_id=rockysingh2003
-[github-stars-shield]: https://img.shields.io/github/stars/rockysingh2003?style=social
-[github-stats]:https://githubreadmestats.vercel.app/apiusername=rockysingh2003&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
-[leetcode-stats-url]: https://leetcard.jacoblin.cool/sajal_123?theme=dark&font=Roboto&ext=heatmap
-[gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sajal_prajapati2003
-[leetcode-url]: https://leetcode.com/sajal_123
-[gfg-url]: https://auth.geeksforgeeks.org/user/sajal_prajapati2003
-[github-followers-shield]: https://img.shields.io/github/followers/rockysingh2003?style=social
-[github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=rockysingh2003&theme=algolia
-[github-streak]: https://streak-stats.demolab.com?user=rockysingh2003&theme=algolia
-[github-trophy]: https://github-profile-trophy.vercel.app/?username=rockysingh2003&theme=algolia
-[leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/sajal_123/solved?color=orange&logo=leetcode
-[gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-150-green?labelColor=white&logo=geeksforgeeks&style=flat
-[leetcode-url]: https://leetcode.com/sajal_123
-[gfg-url]: https://auth.geeksforgeeks.org/user/sajal_prajapati2003
-[ssrn-shield]: https://img.shields.io/badge/-SSRN-informational?style=flat&logo=ssrn&logoColor=darkblue&color=white
-[ssrn-paper-url]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3867738
-[ieee-shield]: https://img.shields.io/badge/IEEE-informational?style=flat&logo=ieee
-[ieee-paper-url]: https://ieeexplore.ieee.org/document/9807998
-[quote-url]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
-[gmail-shield]: https://img.shields.io/badge/-SAJAL%20PRAJAPATI-grey?style=flat&logo=gmail
-[gmail-url]: mailto:prajapatisajal00@gmail.com
-[linkedin-shield]: https://img.shields.io/badge/-SAJAL%20PRAJAPATI-blue?style=flat&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/sajal-prajapati-065179244
-[github-shield]: https://img.shields.io/badge/-SAJAL%20PRAJAPATI-black?style=flat&logo=github
-[linkedin-shield]: https://img.shields.io/badge/-SAJAL%20PRAJAPATI-blue?style=flat&logo=linkedin&logoColor=white
-[github-shield]: https://img.shields.io/badge/-SAJAL%20PRAJAPATI-black?style=flat&logo=github
-[quote-url]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia
-[leetcode-shield]: https://img.shields.io/badge/-SAJAL%20PRAJAPATI-grey?style=flat&logo=leetcode
-[gfg-shield]: https://img.shields.io/badge/-SAJAL%20PRAJAPATI-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks
-[github-url]: https://github.com/rockysingh2003
+---
+
+<br/>
+
+<div align="center">
+
+*+91 93687 46356 · prajapatisajal00@gmail.com*
+
+<br/>
+
+![Visitor Count](https://profile-counter.glitch.me/rockysingh2003/count.svg)
+
+</div>
