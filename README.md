@@ -1,136 +1,159 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:f5f5f7&height=120&section=header&text=Sajal%20Prajapati&fontSize=44&fontColor=1d1d1f&fontAlignY=48&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20C%23%20%2F%20.NET%20%2F%20WPF&descAlignY=72&descSize=15&descColor=6e6e73" alt="Sajal Prajapati" />
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&section=header&text=Sajal%20Prajapati&fontSize=46&fontColor=1d1d1f&fontAlignY=45&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20C%23%20%2F%20.NET%20%2F%20WPF&descSize=15&descColor=6e6e73&descAlignY=72" alt="Sajal Prajapati" />
+
+<p>
+  <b>I build software that feels simple, works fast, and stays reliable.</b>
+</p>
+
+<p>
+  Software Engineer at <b>AVL India</b>, working across real-time automotive systems, desktop engineering, and full-stack web products.
+</p>
+
+<p>
+  <a href="mailto:prajapatisajal00@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1d1d1f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/sajal-prajapati-065179244">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/rockysingh2003">
+    <img src="https://img.shields.io/badge/GitHub-1d1d1f?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/sajal_123">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/sajal_prajapati2003">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+</p>
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=18&duration=2600&pause=900&color=1D1D1F&center=true&vCenter=true&width=720&lines=Building+quiet%2C+fast%2C+useful+software.;Full-Stack+MERN+Developer.;C%23+%2F+.NET+%2F+WPF+Engineer.;Problem+solver+with+a+product+mindset." alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2800&pause=900&color=1D1D1F&center=true&vCenter=true&width=760&lines=Real-time+systems.+Clean+interfaces.+Useful+products.;C%23+%2F+.NET+%2F+WPF+for+desktop+engineering.;React+%2B+Node.js+%2B+MongoDB+for+full-stack+apps.;DSA%2C+system+design%2C+and+better+software+craft." alt="Typing animation" />
 
 <br />
 <br />
-
-<a href="mailto:prajapatisajal00@gmail.com">
-  <img src="https://img.shields.io/badge/Email-prajapatisajal00%40gmail.com-1d1d1f?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/sajal-prajapati-065179244">
-  <img src="https://img.shields.io/badge/LinkedIn-Sajal%20Prajapati-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/rockysingh2003">
-  <img src="https://img.shields.io/badge/GitHub-rockysingh2003-1d1d1f?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://leetcode.com/sajal_123">
-  <img src="https://img.shields.io/badge/LeetCode-sajal__123-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/sajal_prajapati2003">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-sajal__prajapati2003-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-</a>
 
 </div>
 
-<br />
+---
 
-<table>
-  <tr>
-    <td width="58%" valign="top">
-
-### About
-
-I am a software engineer at **AVL India**, focused on building reliable, useful, and maintainable systems across desktop, web, and backend engineering.
-
-I work with **C#**, **.NET**, **WPF**, and the **MERN stack**, with current work around real-time automotive sensor data, serial communication, REST APIs, and clean product-focused interfaces.
-
-    </td>
-    <td width="42%" valign="top">
+## About
 
 ```typescript
 const sajal = {
   role: "Software Engineer @ AVL India",
-  craft: ["C#", ".NET", "WPF", "React", "Node.js"],
-  focus: "Real-time systems and full-stack products",
-  values: ["clarity", "performance", "reliability"],
-  mindset: "Build less noise. Ship more value."
+  location: "India",
+  work: "Real-time automotive sensor data over serial communication and REST APIs",
+  coreStack: ["C#", ".NET", "WPF", "React", "Node.js", "MongoDB"],
+  interests: ["Full-Stack Development", "DSA", "System Design", "Clean Architecture"],
+  principle: "Make it clear. Make it fast. Make it last."
 };
 ```
-
-    </td>
-  </tr>
-</table>
-
-<br />
-
-## Work Philosophy
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Clarity</h3>
-      <p>Interfaces, APIs, and architecture should feel obvious after the first read.</p>
+      <h3>Think Clearly</h3>
+      <p>I like code, UI, and architecture that can be understood without drama. Simple is not less. Simple is finished.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Performance</h3>
-      <p>Fast software feels respectful. I care about latency, responsiveness, and clean execution.</p>
+      <h3>Build Carefully</h3>
+      <p>I care about responsive interfaces, clean data flow, predictable APIs, and systems that behave well under pressure.</p>
     </td>
     <td width="33%" valign="top">
-      <h3>Durability</h3>
-      <p>Good systems are calm under pressure, easy to extend, and boring in production.</p>
+      <h3>Ship Usefully</h3>
+      <p>The best software disappears into the work. It solves the problem, respects the user, and keeps moving.</p>
     </td>
   </tr>
 </table>
 
-<br />
+---
+
+## What I Do
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Desktop and Systems</h3>
+      <ul>
+        <li>C#, .NET, and WPF application development</li>
+        <li>Real-time automotive sensor data workflows</li>
+        <li>Serial communication and device integration</li>
+        <li>REST API integration and data visualization</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Full-Stack Products</h3>
+      <ul>
+        <li>React and Next.js interfaces</li>
+        <li>Node.js and Express.js backends</li>
+        <li>MongoDB data modeling</li>
+        <li>Clean, practical product experiences</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## Technology
 
 <div align="center">
 
-### Languages
+<h3>Languages</h3>
 
 <img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,html,css&theme=light" alt="Languages" />
 
-### Frontend
+<h3>Frontend</h3>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,figma&theme=light" alt="Frontend technologies" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,figma&theme=light" alt="Frontend" />
 
-### Backend, Desktop, Database
+<h3>Backend and Desktop</h3>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,windows&theme=light" alt="Backend and desktop technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,windows&theme=light" alt="Backend and desktop" />
 
-### Tools
+<h3>Tools</h3>
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio&theme=light" alt="Tools" />
 
 </div>
 
-<br />
+---
 
-## Current Focus
+## Engineering Focus
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3>Engineering</h3>
-      <ul>
-        <li>Real-time automotive sensor data workflows</li>
-        <li>Serial communication and REST integration</li>
-        <li>Clean WPF desktop applications</li>
-        <li>Full-stack MERN product development</li>
-      </ul>
+    <td width="25%" align="center">
+      <h3>01</h3>
+      <p><b>Real-time Data</b></p>
+      <p>Reliable data flow from devices to interfaces.</p>
     </td>
-    <td width="50%" valign="top">
-      <h3>Growth</h3>
-      <ul>
-        <li>Data structures and algorithms</li>
-        <li>System design fundamentals</li>
-        <li>Clean architecture and maintainable code</li>
-        <li>Better product thinking and user experience</li>
-      </ul>
+    <td width="25%" align="center">
+      <h3>02</h3>
+      <p><b>Clean UI</b></p>
+      <p>Interfaces that are calm, readable, and purposeful.</p>
+    </td>
+    <td width="25%" align="center">
+      <h3>03</h3>
+      <p><b>System Design</b></p>
+      <p>Simple boundaries, predictable behavior, scalable thinking.</p>
+    </td>
+    <td width="25%" align="center">
+      <h3>04</h3>
+      <p><b>Problem Solving</b></p>
+      <p>DSA practice with a focus on patterns and clarity.</p>
     </td>
   </tr>
 </table>
 
-<br />
+---
 
-## GitHub
+## GitHub Overview
 
 <div align="center">
 
@@ -140,26 +163,30 @@ const sajal = {
 <br />
 <br />
 
-<img width="72%" src="https://streak-stats.demolab.com?user=rockysingh2003&hide_border=true&background=ffffff&ring=0071e3&fire=0071e3&currStreakLabel=1d1d1f&sideLabels=424245&dates=86868b&sideNums=1d1d1f&currStreakNum=1d1d1f" alt="GitHub streak" />
+<img width="75%" src="https://streak-stats.demolab.com?user=rockysingh2003&hide_border=true&background=ffffff&ring=0071e3&fire=0071e3&currStreakLabel=1d1d1f&sideLabels=424245&dates=86868b&sideNums=1d1d1f&currStreakNum=1d1d1f" alt="GitHub streak" />
 
 </div>
 
-<br />
+---
 
 ## Competitive Programming
 
 <div align="center">
 
-<img width="58%" src="https://leetcard.jacoblin.cool/sajal_123?theme=light&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="LeetCode stats" />
+<a href="https://leetcode.com/sajal_123">
+  <img width="58%" src="https://leetcard.jacoblin.cool/sajal_123?theme=light&font=Inter&ext=heatmap&border=0&radius=10" alt="LeetCode stats" />
+</a>
 
 <br />
 <br />
 
-<img width="58%" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sajal_prajapati2003" alt="GeeksforGeeks stats" />
+<a href="https://auth.geeksforgeeks.org/user/sajal_prajapati2003">
+  <img width="58%" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sajal_prajapati2003" alt="GeeksforGeeks stats" />
+</a>
 
 </div>
 
-<br />
+---
 
 ## Activity
 
@@ -171,7 +198,7 @@ const sajal = {
 
 </div>
 
-<br />
+---
 
 ## Recognition
 
@@ -181,14 +208,13 @@ const sajal = {
 
 </div>
 
-<br />
+---
 
 <div align="center">
 
-<sub>Purposeful software. Clean interfaces. Systems built to last.</sub>
-
-<br />
-<br />
+<p>
+  <b>Purposeful software. Clean interfaces. Systems built to last.</b>
+</p>
 
 <img src="https://profile-counter.glitch.me/rockysingh2003/count.svg" alt="Visitor count" />
 
