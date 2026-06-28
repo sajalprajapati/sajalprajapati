@@ -50,6 +50,8 @@
 
 <br>
 
+<sub>WHO I AM</sub>
+
 ## Overview
 
 ```typescript
@@ -88,6 +90,8 @@ const sajal = {
 
 <br>
 
+<sub>WHAT I BUILD</sub>
+
 ## What I Build
 
 <table width="100%">
@@ -125,31 +129,43 @@ const sajal = {
 
 ## Technology
 
-<sub>The tools, refined to a short list, used with intent.</sub>
+<sub>THE TOOLS, REFINED TO A SHORT LIST, USED WITH INTENT</sub>
 
 <br>
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,html,css&theme=light" alt="Languages">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cs,cpp,js,ts,html,css&theme=dark">
+  <img src="https://skillicons.dev/icons?i=cs,cpp,js,ts,html,css&theme=light" alt="Languages">
+</picture>
 
 <br>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,figma&theme=light" alt="Frontend">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,figma&theme=dark">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,figma&theme=light" alt="Frontend">
+</picture>
 
 <br>
 
 **Backend &amp; Desktop**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,windows&theme=light" alt="Backend and desktop">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,windows&theme=dark">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,windows&theme=light" alt="Backend and desktop">
+</picture>
 
 <br>
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio&theme=light" alt="Tools">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio&theme=dark">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio&theme=light" alt="Tools">
+</picture>
 
 </div>
 
@@ -158,6 +174,8 @@ const sajal = {
 ---
 
 <br>
+
+<sub>HOW I WORK</sub>
 
 ## Engineering Focus
 
@@ -291,6 +309,6 @@ const sajal = {
 <br>
 <br>
 
-<sub>Designed and engineered by Sajal Prajapati.</sub>
+<sub>Designed and engineered by Sajal Prajapati. Open to new opportunities.</sub>
 
 </div>
